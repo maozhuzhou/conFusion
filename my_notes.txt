@@ -1,0 +1,24 @@
+cnpm install -g @angular/cli
+
+ng new conFusion 
+
+//https://material.angular.io/guide/getting-started
+ng add @angular/material
+ 
+
+ng serve --open
+
+// git: maozhuzhou? qq 长@
+You can initialize your project to be a Git repository by typing the following commands at the prompt:
+git init
+git status
+git log --oneline
+
+
+  
+ng generate component menu
+
+//https://github.com/FortAwesome/angular-fontawesome
+ng add @fortawesome/angular-fontawesome@0.6.0
+
+////  json-server --watch db.json  
